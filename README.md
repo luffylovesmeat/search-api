@@ -1,2 +1,2 @@
-run npm install
-then run npm run node index.js
+run npm install \n
+then run node index.js
